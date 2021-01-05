@@ -39,4 +39,4 @@ jobs:
         app-name: 'hazeng-fa-dc-dotnet-con'
         slot-name: 'production'
         package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d6572ab80f854221acc79de2553cf1d8 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_fe28dc5420b54d2498c2f90f6194f443 }}
